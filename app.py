@@ -1,5 +1,4 @@
 print("Git/Github Demo")
-print ("Greetings by the repository 0")
+print("This is a decent day")
 
-print("Greetings from local repository 1")
-print("Idiot")
+print("Greetings from local repository")
